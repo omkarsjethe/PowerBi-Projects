@@ -14,15 +14,6 @@ Step into the dynamic world of data-driven decision-making at the PowerBI Analyt
 - **Continuous Expansion:** This repository is a dynamic project with plans for continuous expansion. Anticipate the addition of new dashboards exploring different facets of data analytics and visualization.
 
 
-
-## Check Out My Work
-
-Explore my Power BI profile and visualizations on Power BI Service:
-
-[![Power BI](https://img.shields.io/badge/Power%20BI-viraj.bhutada-yellow?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/groups/me/lineage?experience=power-bi)
-
----
-
 # Contributing, Usage, and Issue Reporting
 
 Thank you for considering contributing to this repository and exploring the Power BI dashboards. Your involvement is highly valued, and your contributions help enhance the overall quality of this collection.
