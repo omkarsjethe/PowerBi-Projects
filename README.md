@@ -57,5 +57,5 @@ I appreciate your interest in this Power BI Dashboards project and look forward 
 
 ---
 
-## Linkedin: [Viraj N.Bhutada](https://www.linkedin.com/in/virajnbhutada24/)
+## Linkedin: [Omkar Jethe](https://www.linkedin.com/in/omkar-jethe-72594127b/)
 
